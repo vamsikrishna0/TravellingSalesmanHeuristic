@@ -1,4 +1,4 @@
-# TravellingSalesmanHeuristic
+# Implementing a Heuristic Algorithm to solve the Travelling Salesman Problem
 
 Based on the research paper: Ant Colony System: A Cooperative Learning
 Approach to the Traveling Salesman Problem,
